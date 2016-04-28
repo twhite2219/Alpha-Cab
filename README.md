@@ -1,2 +1,2 @@
 # Alpha-Cab
-Web-based booking system for a cab company (brief included).
+Web-based booking system for a cab company (brief provided).
